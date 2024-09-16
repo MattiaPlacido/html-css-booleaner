@@ -1,3 +1,4 @@
+/* classi */
 .banner {
     background-color: rgb(32, 144, 196);
     background-image: url('../img/pattern.png');
@@ -6,7 +7,16 @@
     padding-left: 15px;
 }
 
+.evidenziato{
+    background-color: yellow;
+}
+
+/* tags */
 body {
-    font-size: 20px;
+    font-size: 15px;
     font-style: Arial; 
+}
+
+a{
+    text-decoration: none;
 }
