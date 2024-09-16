@@ -7,6 +7,15 @@
     padding-left: 15px;
 }
 
+.container{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.didascalia{
+    margin:0%;
+}
+
 .evidenziato{
     background-color: yellow;
 }
