@@ -1,19 +1,23 @@
 /* classi */
+*{
+    margin:0%;
+}
+
 .banner {
     background-color: rgb(32, 144, 196);
     background-image: url('../img/pattern.png');
     background-repeat: repeat;
-    padding-top: 60px;
-    padding-left: 15px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom:15px;
+    background-size: 25%;
 }
 
 .container{
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-.didascalia{
-    margin:0%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 45%;
+    margin-left: 7px;
 }
 
 .evidenziato{
@@ -22,8 +26,13 @@
 
 /* tags */
 body {
-    font-size: 15px;
-    font-style: Arial; 
+    font-style: open;
+    font-weight: 200;
+}
+
+h1{
+    margin-bottom: 0%;
+    font-size: 40px;
 }
 
 a{
